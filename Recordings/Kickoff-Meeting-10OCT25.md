@@ -31,7 +31,7 @@ Here’s a summary of the **Kickoff Meeting for the Qiskit Advocate Study Group*
 
 #### **Wiktor Mazin**
 - Transitioned from data science to quantum computing.
-- Now works at IBM Quantum and creates **quantum-inspired art**.
+- Now works at IBM Quantum and creates **quantum art** (using simulators and real quantum hardware)
 - Advocated for the creative and interdisciplinary potential of quantum technologies.
 
 ---
