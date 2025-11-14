@@ -1,3 +1,5 @@
+**Recording Link:** https://ibm-my.sharepoint.com/:v:/r/personal/muehge_de_ibm_com/Documents/Recordings/Qiskit%20Advocate%20Study%20Group%202025%20%202026-20251107_150516-Meeting%20Recording.mp4?csf=1&web=1&e=AgKw4l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 Here’s a **summary of the meeting** based on the transcript:
 
 ***
